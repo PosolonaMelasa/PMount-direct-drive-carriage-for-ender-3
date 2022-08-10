@@ -21,3 +21,5 @@ with profile which in theory should result in better x-axis accuracy, however af
 say that it changed anything really.  
 But if you decide to use this feature then make sure that the belt is not 
 rubbing against the aluminum profile.
+
+![image](https://user-images.githubusercontent.com/63112380/183915432-6b0a1373-83e2-46b5-ac82-8495c2120174.png)
